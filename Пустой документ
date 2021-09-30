@@ -1,0 +1,26 @@
+ls - просмотр каталога
+cd - перемещение
+mkdir -  создание папки
+touch - создание файла
+cp - копирование
+nano -  текстовый редактор
+
+
+for i in ***:
+1)[.....](массив)
+2) 
+
+
+
+arg1 = 9
+for i in range(5):
+    arg = 9
+    if i < 4:
+        arg1 = arg1 * arg
+    else:
+        break
+print(arg1)
+
+
+
+sudo wget https://github.com/shiftkey/desktop/releases/download/release-2.6.3-linux1/6itHubDesktop-linux-2.6.3-linux1.deb
