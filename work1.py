@@ -1,7 +1,5 @@
-n = 'ШАЛАШ'
-def Palindrome(n):
-    if n == n[::-1]:
-        return True
-    else:
-        return False
-print(Palindrome(n))
+import time
+name = 'Sergey'
+for i in range(100):
+    print(name)
+    time.sleep(5)
